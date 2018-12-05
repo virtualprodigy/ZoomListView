@@ -2,12 +2,13 @@
 This is a custom list view that makes each list item appear to move closer to the screen as it appoarches the middle of the listview. Added the com.virtualprodigy.zoomlistviewmodule.ZoomListView to your xml layout. This listview will work with 
 any adapter a standard listview is compatible with.
 
-#Change Log
+![project preview video ](https://github.com/virtualprodigy/ZoomListView/blob/master/.video/IMG_2028.gif)
+## Change Log
 Version 1.0
 
 -Inital upload
 
-#License
+## License
    Copyright {2015} {Matthew A Butler}
 
    Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,3 +22,5 @@ Version 1.0
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+   
